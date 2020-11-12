@@ -7,13 +7,14 @@ Aimee Pacifique Ishimwe
 ## Description
 An Angular App where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories
 
+## Deployment
+
+##### Link to Live Site : [https://aimee-pacy.github.io/Git-Search/profile](https://aimee-pacy.github.io/Git-Search/profile)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Deployment
-
-##### Link to Live Site : []()
 
 
 ## Code scaffolding
