@@ -24,7 +24,7 @@ export class RepositoriesComponent implements OnInit {
   }
 
   ngOnInit() {
-   
+   this.repoSearch('Aimee-pacy');
   }
 
 }
